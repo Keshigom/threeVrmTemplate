@@ -2,9 +2,9 @@
   "name": "threevrmtemplate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "dev": "webpack serve"
   },
   "repository": {
     "type": "git",
@@ -12,10 +12,6 @@
   },
   "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Keshigom/threeVrmTemplate/issues"
-  },
-  "homepage": "https://github.com/Keshigom/threeVrmTemplate#readme",
   "dependencies": {
     "@pixiv/three-vrm": "^0.6.2",
     "three": "^0.125.2"
