@@ -1,6 +1,7 @@
 pixiv/three-vrm + TypeScriptのテンプレートです。
 
-デモ
+デモ:
+https://keshigom.github.io/threeVrmTemplate
 
 ## Development
 
